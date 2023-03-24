@@ -1,0 +1,15 @@
+C:\Users\MERALEX\Desktop\examples\example003_sam\obj\Debug\net6.0\example003_sam.csproj.AssemblyReference.cache
+C:\Users\MERALEX\Desktop\examples\example003_sam\obj\Debug\net6.0\example003_sam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERALEX\Desktop\examples\example003_sam\obj\Debug\net6.0\example003_sam.AssemblyInfoInputs.cache
+C:\Users\MERALEX\Desktop\examples\example003_sam\obj\Debug\net6.0\example003_sam.AssemblyInfo.cs
+C:\Users\MERALEX\Desktop\examples\example003_sam\obj\Debug\net6.0\example003_sam.csproj.CoreCompileInputs.cache
+C:\Users\MERALEX\Desktop\examples\example003_sam\bin\Debug\net6.0\example003_sam.exe
+C:\Users\MERALEX\Desktop\examples\example003_sam\bin\Debug\net6.0\example003_sam.deps.json
+C:\Users\MERALEX\Desktop\examples\example003_sam\bin\Debug\net6.0\example003_sam.runtimeconfig.json
+C:\Users\MERALEX\Desktop\examples\example003_sam\bin\Debug\net6.0\example003_sam.dll
+C:\Users\MERALEX\Desktop\examples\example003_sam\bin\Debug\net6.0\example003_sam.pdb
+C:\Users\MERALEX\Desktop\examples\example003_sam\obj\Debug\net6.0\example003_sam.dll
+C:\Users\MERALEX\Desktop\examples\example003_sam\obj\Debug\net6.0\refint\example003_sam.dll
+C:\Users\MERALEX\Desktop\examples\example003_sam\obj\Debug\net6.0\example003_sam.pdb
+C:\Users\MERALEX\Desktop\examples\example003_sam\obj\Debug\net6.0\example003_sam.genruntimeconfig.cache
+C:\Users\MERALEX\Desktop\examples\example003_sam\obj\Debug\net6.0\ref\example003_sam.dll
